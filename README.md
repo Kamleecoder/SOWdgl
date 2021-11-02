@@ -15,7 +15,7 @@ We provide link for datasets of DBLP3, DBLP5, Brain and Reddit here:https://driv
 
 ## Implementation
 
-Here we provide the implementation of OpenWGL, along with the default dataset (DBLP5). The repository is organised as follows:
+Here we provide the implementation of SOWdgl, along with the default dataset (DBLP5). The repository is organised as follows:
 
  - `data/` contains the necessary dataset files and config files;
  - `method/` contains the implementation of the SOWdgl and the basic utils;

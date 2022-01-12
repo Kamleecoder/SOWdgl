@@ -10,8 +10,7 @@ This repository contains the author's implementation Pytorch in  paper "Robust S
 - numpy (>=1.17.4)
 - sklearn
 
-## Datasets
-We provide link for datasets of DBLP3, DBLP5, Brain and Reddit here:https://drive.google.com/drive/folders/1u0pZjAFA6zRS2ePxkdvXdjCunrA-jg_k
+
 
 ## Implementation
 
